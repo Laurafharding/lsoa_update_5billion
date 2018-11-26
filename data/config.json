@@ -1,0 +1,13 @@
+{"ons":{
+"varlabel": ["Lower quartile house price"],
+"varcolour": ["#B9D6D5","#79CCCA","#40A8A7","#078383","#005F5D"],
+"varname": ["YE_17"],
+"varload": "house_price",
+"varunit":[""],
+"varprefix":["£"],
+"breaks":[[24999.5,150000,230000,350000,925000,2000000]],
+"average":[230000],
+"averagelabel":"E&W",
+"centre":[51.566047, -0.12712],
+"zoom":14
+}}
